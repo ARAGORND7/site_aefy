@@ -1,0 +1,5 @@
+.topnav{background-image:linear-gradient(#1636B7, #004fb7, #004fb7, #004fb7, #1636B7);height:60px;border-radius:5px 5px 0 0}
+.topnav ul{display:inline-block;float:left;list-style:none;padding:0;margin:0;line-height:60px}
+.topnav ul li{display:inline-block;cursor:pointer}
+.topnav ul li a{padding:22px;color:#FFF;background:transparent;text-decoration:none}
+.topnav ul li a:hover{color:#272626}

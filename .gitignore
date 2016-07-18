@@ -1,0 +1,7 @@
+.gitattributes
+aefy.iml
+.env.example
+ .env
+
+
+
